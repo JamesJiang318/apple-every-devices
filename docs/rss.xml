@@ -1,2 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://JamesJiang318.github.io/apple-every-devices</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://JamesJiang318.github.io/apple-every-devices</link></image><lastBuildDate>Wed, 18 Sep 2024 13:05:34 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Apple全家桶</title><link>https://JamesJiang318.github.io/apple-every-devices/post/Apple-quan-jia-tong.html</link><description>iPhone:iPhone 16 Pro Max 1TB RMB 15,598&#13;
+iPad:13 英寸 iPad Pro 无线局域网 + 蜂窝网络机型 2TB 配标准玻璃面板 RMB 25,446&#13;
+Mac Pro:Apple M2 Ultra (24 核中央处理器、76 核图形处理器和 32 核神经网络引擎)&#13;
+192GB 统一内存&#13;
+8TB 固态硬盘&#13;
+机架安装导轨 (独立包装发货)&#13;
+妙控鼠标 + 妙控板&#13;
+带有触控 ID 和数字小键盘的妙控键盘 - 中文 (拼音)&#13;
+Pro App 教育套装&#13;
+RMB 90,746&#13;
+Apple Display:Pro Display XDR RMB 53,247&#13;
+AirPods:AirPods Max RMB 3,999&#13;
+Apple Watch:Apple Watch Hermès Series 10 (GPS + 蜂窝网络)；46 毫米银色钛金属表壳；Satiné 缎灰色 Grand H 表带 RMB 16,998&#13;
+HomePod:HomePod RMB 2,299&#13;
+AirTag：&#13;
+RMB 249&#13;
+iPhone 16 Pro Max 专用 MagSafe 硅胶保护壳 RMB 399&#13;
+Incase 硬质保护壳 RMB 398&#13;
+mophie speedport 120 四端口 GaN 壁式充电器旅行套装 (120W) RMB 998&#13;
+。</description><guid isPermaLink="true">https://JamesJiang318.github.io/apple-every-devices/post/Apple-quan-jia-tong.html</guid><pubDate>Wed, 18 Sep 2024 13:05:09 +0000</pubDate></item></channel></rss>
